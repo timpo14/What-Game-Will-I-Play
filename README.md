@@ -1,6 +1,6 @@
-**WHAT GAME WILL I PLAY?** - информация
-  **ЧТО ЭТО ТАКОЕ?**
-    **What Game Will I Play?** - это проект от тех, кто не знает во что поиграть для тех, кто не знает, во что поиграть!
-  **ОБ АВТОРАХ**
-    **9Sasha** - идея бота, 88% кода, 32% датабазы
-    **timpo14** - идея функций, 12% кода, 68% датабазы, обслуживание бота(подключение сервера и т.д)
+**WHAT GAME WILL I PLAY?** - information
+    **WHAT GAME WILL I PLAY?**
+        **What Game Will I Play?** is a project from those who don't know what to play for those who don't know what to play!
+    **ABOUT THE AUTHORS**
+        **9Sasha** - bot idea, 88% code, 32% database
+        **timpo14** - feature idea, 12% of code, 68% of database, bot maintenance (server connection, etc.)
