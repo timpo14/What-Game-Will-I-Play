@@ -1,0 +1,181 @@
+
+{
+    "games": [
+      {
+        "title": "Portal",
+        "genre": "puzzle",
+        "release_year": 2007,
+        "description": "Portal™ — новая игра от Valve для одного игрока. Portal, действие которого происходит в загадочных лабораториях компании Aperture, был назван одной из самых новаторских игр современности и предлагает вниманию игрока множество часов непохожей ни на что головоломки.",
+        "image": "https://static.wikia.nocookie.net/half-life/images/7/74/Testchmb17.jpg/revision/latest/scale-to-width-down/800?cb=20100310135327&path-prefix=en",
+        "url": "https://store.steampowered.com/app/400/Portal/"
+      },
+      {
+        "title": "MULLET MAD JACK",
+        "genre": "boomer shooter",
+        "release_year": 2024,
+        "description": "MULLET MAD JACK — это безумно-скоростной шутер от первого лица в КЛАССИЧЕСКОМ АНИМЕШНОМ сеттинге из 90-х. Прокачай героя и дойди до верхнего этажа в гонке со временем… или умри и попробуй снова!",
+        "image": "https://www.godisageek.com/wp-content/uploads/Mullet-Madjack-PC-review.jpg",
+        "url": "https://store.steampowered.com/app/2111190/MULLET_MADJACK/"
+      },
+      {
+        "title": "Content Warning",
+        "genre": "horror",
+        "release_year": 2024,
+        "description": "Примерьте на себе роль бесстрашного искателя паранормальных явлений, готового рискнуть всем ради славы на «Страшнотьюбе». В Content Warning вы будете шастать по самым жутким локациям, преодолевая свои страхи и ловя в объектив камеры всё самое пугающее и необъяснимое. Ваша цель проста, но отнюдь не легка: заснять как можно больше паранормальщины до того, как у вас закончится кислород, сядет батарея или, чего доброго, друзья решат, что с них хватит этих потусторонних экспериментов.",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.600x338.jpg?t=1715689548",
+        "url": "https://store.steampowered.com/app/2881650/Content_Warning/"
+      },
+      {
+        "title": "Garry's Mod",
+        "genre": "sandbox",
+        "release_year": 2006,
+        "description": "Garry's Mod — физическая песочница. В отличие от обычных игр, здесь не существует каких-либо определённых целей или задач. Мы даём вам инструменты и оставляем вас играть. Вы создаете объекты и соединяете их вместе для создания ваших собственных конструкций — машина ли это, ракета, катапульта или нечто пока без названия — это зависит от вас. Если с конструированием у вас не слишком замечательно — не расстраивайтесь! Вы можете разместить множество персонажей в глупых позах.",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/4000/ss_1a9b6c5aaf53e82c00daca46b108774d0d39c32f.600x338.jpg?t=1710347075",
+        "url": "https://store.steampowered.com/app/4000/Garrys_Mod/"
+      },
+      {
+        "title": "Hotline Miami",
+        "genre": "action",
+        "release_year": 2012,
+        "description": "Hotline Miami — это адреналиновый боевик, полный первобытной жестокости, смертельно опасных перестрелок и крышесносящих драк. Место действия — альтернативный город Майами 1989 года, где вам предстоит вжиться в шкуру загадочного антигероя. Он встал на тропу кровавой мести прогнившему преступному миру, потому что так приказал голос на его автоответчике. Вскоре вам и вашему герою предстоит узнать всю правду о том, что здесь творится и почему вы испытываете такую сильную жажду к жестоким убийствам.",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/219150/ss_bdf28f59652e53e725d96d94cdc8db97fc277cf2.600x338.jpg?t=1686261983",
+        "url": "https://store.steampowered.com/app/219150/Hotline_Miami/"
+      },
+      {
+        "title": "Undertale",
+        "genre": "RPG",
+        "release_year": 2015,
+        "description": "Ролевая инди-игра, созданная силами одного разработчика. В Undertale игроки возьмут на себя роль маленького ребёнка, которая оказывается в таинственном Подземелье. Здесь присутствует глубокий сюжет, оригинальный саундтрек и необычные персонажи.",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/391540/ss_edab41f7c9fa287b0d90ebfa3b9219fec6e1b3ed.600x338.jpg?t=1579096091",
+        "url": "https://store.steampowered.com/app/391540/Undertale/"
+      },
+      {
+        "title": "Pizza Tower",
+        "genre": "platformer",
+        "release_year": 2023,
+        "description": "Pizza Tower - это быстро развивающийся 2D-платформер, вдохновленный серией Wario Land, с акцентом на движение, исследование и атаку на счет. Стилизованный пиксельный арт, вдохновленный мультфильмами 90-х годов, и энергичный саундтрек.",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2231450/ss_3e70c43ffd6f492f6e4dce7965499d41fad47052.600x338.jpg?t=1712946444",
+        "url": "https://store.steampowered.com/app/2231450/Pizza_Tower/"
+      },
+      {
+        "title": "Left 4 Dead 2",
+        "genre": "horror",
+        "release_year": 2009,
+        "description": "Настоящий зомби-апокалипсис Left 4 Dead 2 (L4D2) — это долгожданный сиквел к обладательнице многих наград Left 4 Dead — лучшей кооперативной игре 2008 года. В этом кооперативном хоррор-шутере от первого лица вы вместе с друзьями пройдёте пять больших кампаний сквозь города, болота и кладбища Юга США, от Саванны и до Нового Орлеана.",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/ss_2eae29fbdfe8e5e8999b96d8bb28c5db70507968.600x338.jpg?t=1713549936",
+        "url": "https://store.steampowered.com/app/550/Left_4_Dead_2/"
+      },
+      {
+        "title": "Banana",
+        "genre": "clicker",
+        "release_year": 2024,
+        "description": "Banana - это игра-кликер, в которой вы нажимаете на банан! В Banana вы нажимаете на банан, чтобы получить еще больше бананов!",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2923300/ss_c9a91ba84f434b68b17b2ea25133a02f3aafe0a6.600x338.jpg?t=1716360246",
+        "url": "https://store.steampowered.com/app/2923300/Banana/"
+      },
+      {
+        "title": "Everlasting Summer",
+        "genre": "visual novel",
+        "release_year": 2014,
+        "description": "Встретив на улице Семена, главного героя игры, вы бы никогда не обратили на него внимания - действительно, подобных людей в каждом городе тысячи и даже сотни тысяч. Но однажды с ним приключается совершенно необычное происшествие: он засыпает зимой в автобусе, а просыпается... посреди жаркого лета. Перед ним – пионерлагерь «Совенок», а позади – прошлая жизнь. Чтобы разгадать, что же с ним случилось, Семену придется получше узнать местных обитателей (а может, даже встретить любовь), разобраться в лабиринтах сложных человеческих взаимоотношений и своих собственных проблемах, решить загадки лагеря. И главное – как вернуться обратно или не возвращаться вовсе?",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/331470/ss_c0cf9bb7007ebb7e0d6304edfb71c471d66dbe01.600x338.jpg?t=1693557991",
+        "url": "https://store.steampowered.com/app/331470/Everlasting_Summer/"
+      },
+      {
+        "title": "GTA V",
+        "genre": "action",
+        "release_year": 2015,
+        "description": "События игры разворачиваются в Лос-Сантосе в наше время. В игре присутствуют три главных героя.\n\nПервый — семьянин Майкл, в прошлом — успешный грабитель, чья семейная жизнь катится под откос. Участвует в неофициальной программе по защите свидетелей. Влез в долги к дону мексиканской мафии, из-за чего вынужден «вернуться в игру».\n\nВторой — Франклин, делец, работающий на армянское автомобильное агенство. Самый молодой, стильный и ловкий из всей троицы, пытается выбраться из гетто (но делает это странным способом). Мечтает проложить себе путь по криминальной лестнице. Встретив Майкла, понимает, что он может ему в этом помочь.\n\nТретий — Тревор, профессиональный преступник. Ему также сорок лет, в прошлом работал с Майклом. Бывший пилот ВВС США. Наркоман, склонен к насилию, крайне жесток. Имеет собственное криминальное предприятие «Тревор Филипс Энтерпрайзис», которое занимается торговлей наркотиками и оружием.",
+        "image": "https://gta.fandom.com/ru/wiki/Grand_Theft_Auto_V?file=ScreenGTAV27.jpg",
+        "url": "https://store.rockstargames.com/game/buy-gta-v?_gl=1*i1t7rm*_ga*MjA2OTY1OTMxNi4xNzE2NTMzNDY1*_ga_PJQ2JYZDQC*MTcxNjUzMzQ2NS4xLjEuMTcxNjUzMzQ4NC4wLjAuMA (недоступно в РФ)"
+      },
+      {
+        "title": "The Witcher 3: Wild Hunt",
+        "genre": "RPG",
+        "release_year": 2015,
+        "description": "Игра рассказывает о Геральте из Ривии, ведьмаке, который ищет свою потерянную возлюбленную Йеннифер и свою приёмную дочь Цири, скрывающуюся от Дикой Охоты.",
+        "image": "https://witcher.fandom.com/ru/wiki/The_Witcher_3:_Wild_Hunt?file=The_Witcher_3_box_art.jpg",
+        "url": "https://store.steampowered.com/app/292030/ (недоступно в РФ)"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "genre": "action",
+        "release_year": 2018,
+        "description": "Действие происходит в 1899 году в вымышленном сеттинге Западной, Средне-западной и Южной части США. Игра повествует о преступнике Артуре Моргане, члене банды Ван дер Линде, пытающемся выжить против упадка Дикого Запада и давления со стороны государственных сил.",
+        "image": "https://reddead.fandom.com/ru/wiki/Red_Dead_Redemption_2?file=RDR2.jpg",
+        "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/ (недоступно в РФ)"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "genre": "RPG",
+        "release_year": 2020,
+        "description": "Сюжет игры происходит в Найт-Сити, калифорнийском мегаполисе, охваченном коррупцией, властью крупных корпораций и уличными бандами. Игрок управляет наемником по имени V, который ищет уникальный имплантат, дающий бессмертие.",
+        "image": "https://cyberpunk.fandom.com/ru/wiki/Cyberpunk_2077?file=Cyberpunk_2077.jpg",
+        "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/ (недоступно в РФ)"
+      },
+      {
+        "title": "Among Us",
+        "genre": "party",
+        "release_year": 2018,
+        "description": "Игра происходит на космическом корабле, где игроки делятся на два лагеря: членов экипажа и предателей. Цель предателей - уничтожить всех членов экипажа, а цель членов экипажа - выполнять задачи и выявить предателей.",
+        "image": "https://among-us.fandom.com/ru/wiki/Among_Us?file=Among_Us.jpg",
+        "url": "https://store.steampowered.com/app/945360/Among_Us/"
+      },
+      {
+        "title": "The Elder Scrolls V: Skyrim",
+        "genre": "RPG",
+        "release_year": 2011,
+        "description": "Открытый мир, где игрок управляет персонажем по имени Довакин, предназначенным спасти мир от древнего дракона Алдуина.",
+        "image": "https://ru.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim#/media/Файл:The_Elder_Scrolls_V_-_Skyrim.jpg",
+        "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/ (недоступно в РФ)"
+      },
+       {
+        "title": "S.T.A.L.K.E.R. 2: HEART OF CHORNOBYL",
+        "genre": "RPG",
+        "release_year": 2024,
+        "description": "новая глава легендарной игровой франшизы от GSC Game World, любимой игроками и признанной критиками. Примерьте на себя костюм сталкера — охотника за артефактами в постапокалиптической Чернобыльской зоне отчуждения.",
+        "image": "https://ru.wikipedia.org/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl#/media/Файл:S.T.A.L.K.E.R._2_Logo.png",
+        "url": "https://store.steampowered.com/app/1643320/STALKER_2_Heart_of_Chornobyl/ (недоступно в РФ)"
+      },
+      {
+        "title": "KinitoPET",
+        "genre": "horror",
+        "release_year": 2024,
+        "description": "KinitoPET - это психологический хоррор, действие которого происходит через Кинито, виртуального помощника начала 2000-х годов. Кинито может ходить, говорить, просматривать страницы, адаптироваться и играть в игры, ведь благодаря своей адаптивной технологии Кинито не похож ни на кого другого!",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075070/header.jpg?t=1709143073",
+        "url": "https://store.steampowered.com/app/2075070/KinitoPET/"
+      },
+      {
+        "title": "War Thunder",
+        "genre": "action",
+        "release_year": 2013,
+        "description": "War Thunder - это самая полная бесплатная кроссплатформенная военная MMO-игра, посвященная авиации, бронетехнике и военно-морскому флоту, начиная с начала XX века и заканчивая самыми передовыми современными боевыми единицами. Присоединяйтесь прямо сейчас и примите участие в крупнейших сражениях на суше, в воздухе и на море.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg?t=1713793346",
+        "url": "https://store.steampowered.com/app/236390/War_Thunder/"
+      },
+      {
+        "title": "Bendy: Secrets of the Machine",
+        "genre": "horror",
+        "release_year": 2024,
+        "description": "Откройте для себя интерактивные Секреты Машины, исследуя творение Гента и решая головоломки внутри. Среди теней скрываются проблески прошлого, настоящего и будущего Темных лужаек. Но будьте бдительны, это царство часто меняется...",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/622630/header.jpg?t=1713098595",
+        "url": "https://store.steampowered.com/app/622630/Bendy_Secrets_of_the_Machine/"
+      },
+      {
+        "title": "Henry's Forgotten Performance",
+        "genre": "horror",
+        "release_year": 2024,
+        "description": "Исследуйте заброшенный театр, решайте интересные головоломки, чтобы двигаться вперед, раскройте ужасающую правду о Генри и найдите то, что вы искали. Но знайте, что вы не одни, и они могут найти вас в любой момент.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870410/header.jpg?t=1717591432",
+        "url": "https://store.steampowered.com/app/2870410/Henrys_Forgotten_Performance/"
+      },
+      {
+        "title": "Rust",
+        "genre": "survival",
+        "release_year": 2018,
+        "description": "Единственная цель в Rust - выжить. Все хочет, чтобы вы умерли - дикая природа и другие обитатели острова, окружающая среда, другие выжившие. Сделайте все возможное, чтобы продержаться еще одну ночь.",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1715591843",
+        "url": "https://store.steampowered.com/app/252490/Rust/"
+      }
+    ]
+  }
